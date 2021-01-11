@@ -16,6 +16,7 @@
 			"editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
 			"editor.fontLigatures": true
 		},
-		"editor.fontFamily": "Consolas, 'Courier New', monospace"
+		"editor.fontFamily": "Consolas, 'Courier New', monospace",
+		"editor.fontLigatures": false
 	}
 }
