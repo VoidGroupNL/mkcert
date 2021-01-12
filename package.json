@@ -1,4 +1,7 @@
 {
     "name": "@voidgroup/mkcert",
-    "version": "0.0.1-dev.6"
+    "version": "0.0.1-dev.6",
+    "description": "A Package To Generate CA/DNS SSL Certificates",
+    "keywords": ["openssl", "generate", "ssl", "certificate", "authority"],
+    "homepage": "https://github.com/VoidGroupNL/mkcert"
 }
