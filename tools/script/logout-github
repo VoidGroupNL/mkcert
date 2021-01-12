@@ -1,1 +1,0 @@
-npm logout --registry=https://npm.pkg.github.com --scope=@voidgroup

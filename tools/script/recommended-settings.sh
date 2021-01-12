@@ -1,3 +1,4 @@
+#!/bin/bash
 if command -v code &> /dev/null
 then
     git config core.editor 'code --wait'
