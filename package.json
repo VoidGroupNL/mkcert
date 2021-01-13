@@ -2,10 +2,47 @@
     "name": "@voidgroup/mkcert",
     "version": "0.0.1-dev.6",
     "description": "A Package To Generate CA/DNS SSL Certificates",
-    "keywords": ["openssl", "generate", "ssl", "certificate", "authority"],
+    "keywords": [
+        "openssl",
+        "generate",
+        "ssl",
+        "certificate",
+        "authority"
+    ],
     "homepage": "https://github.com/VoidGroupNL/mkcert",
     "bugs": {
         "url": "https://github.com/VoidGroupNL/mkcert/"
     },
-    "license": "SEE LICENSE IN LICENSE.md"
+    "license": "SEE LICENSE IN LICENSE.md",
+    "author": {
+        "name": "VoidStoneDev",
+        "url": "https://www.npmjs.com/~voidstonedev"
+    },
+    "main": "out/app.js",
+    "bin": {
+        "mkcert": "out/app.js"
+    },
+    "man": [
+        "man/mkcert.1"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/VoidGroupNL/mkcert.git"
+    },
+    "scripts": {
+        "build": "",
+        "prepare": ""
+    },
+    "engines": {
+        "node": "^15.5.0",
+        "npm": "^7.3.0"
+    },
+    "os": [
+        "linux",
+        "win32",
+        "linux,win32"
+    ],
+    "cpu": [
+        ""
+    ]
 }
