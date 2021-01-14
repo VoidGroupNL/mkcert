@@ -30,8 +30,9 @@
         "url": "https://github.com/VoidGroupNL/mkcert.git"
     },
     "scripts": {
-        "build": "",
-        "prepare": ""
+        "build": "rm -r -d -f ./out/*** && npx tsc && npm run copy-data",
+        "copy-data": "rsync --exclude=\"***.ts\" --exclude=\"***.js\" -r ./src/*** ./out",
+        "prepare": "npm run build"
     },
     "engines": {
         "node": "^15.5.0",
