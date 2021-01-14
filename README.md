@@ -1,2 +1,2 @@
-# MKCERT \- A NPM package to generate ssl certificates
-Version
+# MKCERT \- A package for generating ssl certificates
+Version 2

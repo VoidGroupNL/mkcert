@@ -1,7 +1,7 @@
 {
     "name": "@voidgroup/mkcert",
     "version": "0.0.1-dev.6",
-    "description": "A Package To Generate SSL Certificates",
+    "description": "A package for generating SSL certificates",
     "keywords": [
         "openssl",
         "generate",
