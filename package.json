@@ -1,7 +1,7 @@
 {
     "name": "@voidgroup/mkcert",
     "version": "0.0.1-dev.6",
-    "description": "A Package To Generate CA/DNS SSL Certificates",
+    "description": "A Package To Generate SSL Certificates",
     "keywords": [
         "openssl",
         "generate",

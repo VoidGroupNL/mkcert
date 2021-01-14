@@ -1,2 +1,2 @@
-# MKCERT \- A NPM package to generate ca / dns ssl certificates
+# MKCERT \- A NPM package to generate ssl certificates
 Version
