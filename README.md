@@ -1,2 +1,2 @@
-# MKCERT \- A package for generating ssl certificates
+## MKCERT \- A package for generating ssl certificates
 Version 2

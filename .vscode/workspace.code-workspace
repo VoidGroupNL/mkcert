@@ -13,6 +13,7 @@
 			"**/.DS_Store": true
 		},
 		"editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
-		"editor.fontLigatures": true
+		"editor.fontLigatures": true,
+		"explorer.sortOrder": "type"
 	}
 }
